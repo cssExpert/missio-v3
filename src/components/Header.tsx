@@ -35,6 +35,13 @@ export default function Header() {
         <NavMenu />
           <div className="flex items-center gap-3">
           <a
+            href="#"
+            // Ghost button, same 52px height as Schedule A Demo
+            className="hidden h-[52px] items-center rounded-full border border-white px-6 text-sm font-medium text-white transition-colors duration-300 hover:border-accent hover:bg-accent sm:inline-flex"
+          >
+            Log In
+          </a>
+          <a
             href="#contact"
             className={`group hidden items-center gap-4 rounded-full py-2 pl-6 pr-2 text-sm font-medium sm:inline-flex transition-colors duration-300 hover:bg-highlight hover:text-ink ${
               scrolled ? "bg-accent text-white" : "bg-black/80 text-paper"

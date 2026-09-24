@@ -4,9 +4,7 @@ import Newsletter from "./Newsletter";
 import ParallaxImage from "./ParallaxImage";
 import { Arrow, Logo, TextLink } from "./ui";
 
-const M = "https://www.missio.io";
-
-// Footer menus from missio.io. Links scroll to this page's section where one exists, otherwise open the missio.io page.
+// Footer menus from missio.io. Links scroll to this page's section where one exists, otherwise are "#" placeholders.
 const columns = [
   {
     title: "Engines",
@@ -15,8 +13,8 @@ const columns = [
       ["Relationship Engine", "#engines"],
       ["Execution Engine", "#engines"],
       ["Revenue Engine", "#engines"],
-      ["MIRA AI", `${M}/engines#mira`],
-      ["Compare Missio", `${M}/why-missio`],
+      ["MIRA AI", "#"],
+      ["Compare Missio", "#"],
     ],
   },
   {
@@ -25,41 +23,32 @@ const columns = [
       ["About", "#about"],
       ["Pricing", "#pricing"],
       ["Contact Us", "#contact"],
-      ["Book a Consultation", `${M}/demo#demo`],
-      ["Careers", `${M}/careers`],
-      ["Newsroom", `${M}/newsroom`],
+      ["Book a Consultation", "#"],
+      ["Careers", "#"],
+      ["Newsroom", "#"],
     ],
   },
   {
     title: "Resources",
     links: [
-      [
-        "Stack audit worksheet",
-        `${M}/resources/nonprofit-stack-audit-worksheet`,
-      ],
-      [
-        "Migration guide",
-        `${M}/resources/switching-systems-without-losing-a-fundraising-season`,
-      ],
-      [
-        "Benchmark report",
-        `${M}/resources/what-mid-size-nonprofits-actually-pay-for-software`,
-      ],
-      ["Help center", `${M}/help`],
-      ["Blog", `${M}/blog`],
-      ["Community", `${M}/community`],
+      ["Stack audit worksheet", "#"],
+      ["Migration guide", "#"],
+      ["Benchmark report", "#"],
+      ["Help center", "#"],
+      ["Blog", "#"],
+      ["Community", "#"],
     ],
   },
   {
     title: "Legal",
     links: [
-      ["Privacy", `${M}/privacy`],
-      ["Terms", `${M}/terms`],
-      ["Refund Policy", `${M}/refund-and-cancellation-policy`],
-      ["Security", `${M}/security`],
-      ["Accessibility", `${M}/accessibility`],
-      ["Cookie preferences", `${M}/cookie-preferences`],
-      ["Data processing", `${M}/data-processing`],
+      ["Privacy", "#"],
+      ["Terms", "#"],
+      ["Refund Policy", "#"],
+      ["Security", "#"],
+      ["Accessibility", "#"],
+      ["Cookie preferences", "#"],
+      ["Data processing", "#"],
     ],
   },
 ];
