@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { createPortal } from "react-dom";
 import { AnimatePresence, motion, type Variants } from "motion/react";
-import { MIRA_ICON, MISSIO, NavIcon, engines, links, hrefFor, sectionFor } from "./navData";
+import { MIRA_ICON, NavIcon, engines, links, hrefFor, sectionFor } from "./navData";
 import { useActiveSection } from "./useActiveSection";
 import { Arrow, Logo } from "./ui";
 
@@ -112,7 +112,7 @@ export default function MobileMenu() {
                           >
                             <div className="space-y-1 pb-4">
                               {engines.map((e) => (
-                                <a key={e.name} href={`${MISSIO}/engines#engines`} onClick={close} className="flex items-start gap-3 rounded-2xl p-3 transition-colors hover:bg-paper/5">
+                                <a key={e.name} href="#" onClick={close} className="flex items-start gap-3 rounded-2xl p-3 transition-colors hover:bg-paper/5">
                                   <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-primary/25 text-accent-soft ring-1 ring-accent-soft/20">
                                     <NavIcon d={e.icon} className="h-4 w-4" />
                                   </span>
@@ -122,7 +122,7 @@ export default function MobileMenu() {
                                   </span>
                                 </a>
                               ))}
-                              <a href={`${MISSIO}/engines#engines`} onClick={close} className="flex items-center gap-3 rounded-2xl bg-gradient-to-r from-primary/40 to-transparent p-3 ring-1 ring-accent-soft/15">
+                              <a href="#" onClick={close} className="flex items-center gap-3 rounded-2xl bg-gradient-to-r from-primary/40 to-transparent p-3 ring-1 ring-accent-soft/15">
                                 <span className="grid h-9 w-9 shrink-0 place-items-center rounded-xl bg-gold text-ink">
                                   <NavIcon d={MIRA_ICON} className="h-4 w-4" />
                                 </span>
@@ -131,7 +131,7 @@ export default function MobileMenu() {
                                   <span className="block text-xs text-paper/55">Intelligence across all four engines</span>
                                 </span>
                               </a>
-                              <a href={`${MISSIO}/why-missio`} onClick={close} className="flex items-center justify-between rounded-2xl p-3 text-sm font-bold text-paper transition-colors hover:bg-paper/5">
+                              <a href="#" onClick={close} className="flex items-center justify-between rounded-2xl p-3 text-sm font-bold text-paper transition-colors hover:bg-paper/5">
                                 Compare Missio
                                 <Arrow className="text-accent-soft" />
                               </a>

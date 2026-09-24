@@ -19,8 +19,8 @@ const external: Record<string, string> = {
   Resources: `${MISSIO}/blog`,
 };
 
-// Where a header link points: another page if listed above, otherwise its section on this page
-export const hrefFor = (label: string) => external[label] ?? `#${sectionFor[label]}`;
+// Where a header link points: another page if listed above, otherwise a "#" placeholder (demo)
+export const hrefFor = (label: string) => external[label] ?? "#";
 
 // Product line from missio.io: four engines, the MIRA AI layer, and the comparison page
 export const engines = [

@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion, type Variants } from "motion/react";
-import { MIRA_ICON, MISSIO, NavIcon, engines, links, hrefFor, sectionFor } from "./navData";
+import { MIRA_ICON, NavIcon, engines, links, hrefFor, sectionFor } from "./navData";
 import { useActiveSection } from "./useActiveSection";
 import { Arrow } from "./ui";
 
@@ -146,7 +146,7 @@ export default function NavMenu() {
                   <motion.a
                     key={e.name}
                     variants={column}
-                    href={`${MISSIO}/engines#engines`}
+                    href="#"
                     className="group/col block rounded-2xl p-4 transition-colors hover:bg-paper/5"
                   >
                     <span className="grid h-10 w-10 place-items-center rounded-xl bg-primary/25 text-accent-soft ring-1 ring-accent-soft/20">
@@ -179,7 +179,7 @@ export default function NavMenu() {
                 className="mt-4 grid gap-2 border-t border-paper/10 pt-4 md:grid-cols-[2fr_1fr]"
               >
                 <a
-                  href={`${MISSIO}/engines#engines`}
+                  href="#"
                   className="group/mira flex items-center gap-4 rounded-2xl bg-gradient-to-r from-primary/40 to-transparent p-4 ring-1 ring-accent-soft/15 transition hover:from-primary/60"
                 >
                   <span className="grid h-10 w-10 shrink-0 place-items-center rounded-xl bg-gold text-ink">
@@ -196,7 +196,7 @@ export default function NavMenu() {
                   <Arrow className="ml-auto text-gold transition duration-300 group-hover/mira:-rotate-45" />
                 </a>
                 <a
-                  href={`${MISSIO}/why-missio`}
+                  href="#"
                   className="group/cmp flex items-center gap-4 rounded-2xl p-4 transition-colors hover:bg-paper/5"
                 >
                   <span>
