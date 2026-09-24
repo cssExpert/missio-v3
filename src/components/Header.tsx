@@ -42,7 +42,7 @@ export default function Header() {
             Log In
           </a>
           <a
-            href="#contact"
+            href="#"
             className={`group hidden h-[46px] items-center gap-4 rounded-full pl-6 pr-[5px] text-sm font-medium sm:inline-flex transition-colors duration-300 hover:bg-highlight hover:text-ink ${
               scrolled ? "bg-accent text-white" : "bg-black/80 text-paper"
             }`}

@@ -73,8 +73,8 @@ export default function About() {
             ))}
           </ul>
           <div className="mt-10 flex flex-wrap items-center gap-8">
-            <PillButton href="#services">Services</PillButton>
-            <TextLink href="#contact">Contact us</TextLink>
+            <PillButton href="#">Services</PillButton>
+            <TextLink href="#">Contact us</TextLink>
           </div>
         </div>
 

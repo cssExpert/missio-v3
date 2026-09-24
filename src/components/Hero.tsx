@@ -160,8 +160,8 @@ export default function Hero() {
         </p>
         <div className="mx-auto my-8 w-50 border-t border-dashed border-paper/30" />
         <div className="flex flex-wrap items-center justify-center gap-8">
-          <PillButton href="#services">See Demo</PillButton>
-          <TextLink href="#contact" light>
+          <PillButton href="#">See Demo</PillButton>
+          <TextLink href="#" light>
             Watch the 2-min Overview
           </TextLink>
         </div>

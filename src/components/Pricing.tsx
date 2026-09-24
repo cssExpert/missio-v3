@@ -68,7 +68,7 @@ export default function Pricing() {
                   );
                 })}
               </ul>
-              <PillButton href="#contact">Choose a plan</PillButton>
+              <PillButton href="#">Choose a plan</PillButton>
             </div>
           ))}
         </div>

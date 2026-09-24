@@ -56,8 +56,8 @@ export default function Mission() {
         </div>
 
         <div className="mt-12 flex flex-wrap items-center gap-8">
-          <PillButton href="#services">Services</PillButton>
-          <TextLink href="#contact">Read More</TextLink>
+          <PillButton href="#">Services</PillButton>
+          <TextLink href="#">Read More</TextLink>
         </div>
       </div>
 

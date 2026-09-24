@@ -160,8 +160,8 @@ export default function HeroLeft() {
             Run your mission, not your software stack. That&rsquo;s Missio.
           </p>
           <div className="flex flex-wrap items-center justify-start gap-8">
-            <PillButton href="#services">See Demo</PillButton>
-            <PillButton href="#contact" variant="light">
+            <PillButton href="#">See Demo</PillButton>
+            <PillButton href="#" variant="light">
               Watch the 2-min Overview
             </PillButton>
           </div>

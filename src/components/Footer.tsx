@@ -106,7 +106,7 @@ export default function Footer() {
             </p>
           </div>
           <div className="flex items-center gap-8">
-            <TextLink href="#faq" light>
+            <TextLink href="#" light>
               See Demo
             </TextLink>
             <a

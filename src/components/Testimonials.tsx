@@ -223,7 +223,7 @@ export default function Testimonials() {
 
           {/* Proof tile: count-up plus a row of client logos, linking to the Trusted-by section */}
           <motion.a
-            href="#clients"
+            href="#"
             variants={tile}
             whileHover={lift}
             onMouseMove={trackSpotlight}

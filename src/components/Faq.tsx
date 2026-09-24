@@ -43,8 +43,8 @@ export default function Faq() {
           Short answers to common questions. If yours is not here, just ask.
         </p>
         <div className="mt-10 flex flex-wrap items-center gap-8">
-          <PillButton href="#contact">View all</PillButton>
-          <TextLink href="#contact">Contact us</TextLink>
+          <PillButton href="#">View all</PillButton>
+          <TextLink href="#">Contact us</TextLink>
         </div>
       </div>
       <div className="px-4 py-16 sm:px-8 lg:px-12 lg:pr-[max(2rem,calc((100vw-1340px)/2+2rem))]">

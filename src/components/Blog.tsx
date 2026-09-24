@@ -63,7 +63,7 @@ export default function Blog() {
             <p className="text-sm text-ink/65 mb-0">
               Lessons from recent client work
             </p>
-            <TextLink href="#blog">View all</TextLink>
+            <TextLink href="#">View all</TextLink>
           </div>
         </div>
 
@@ -96,7 +96,7 @@ export default function Blog() {
                   {p.excerpt}
                 </p>
                 <div className="mt-auto pt-8">
-                  <PillButton href="#blog">Read more</PillButton>
+                  <PillButton href="#">Read more</PillButton>
                 </div>
               </div>
             </article>

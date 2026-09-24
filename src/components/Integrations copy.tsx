@@ -92,8 +92,8 @@ export default function Integrations() {
             </p>
           </div>
           <div className="mt-10 flex flex-wrap items-center gap-8">
-            <PillButton href="#services">Our work</PillButton>
-            <TextLink href="#contact">Let&apos;s Talk</TextLink>
+            <PillButton href="#">Our work</PillButton>
+            <TextLink href="#">Let&apos;s Talk</TextLink>
           </div>
         </div>
       </div>

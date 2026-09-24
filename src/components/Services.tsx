@@ -41,7 +41,7 @@ export default function Services() {
             <p className="text-sm text-ink/65 mb-0">
               Focused. Strategic. Built for growth.
             </p>
-            <TextLink href="#contact">Let&apos;s Talk</TextLink>
+            <TextLink href="#">Let&apos;s Talk</TextLink>
           </div>
         </div>
       </div>
@@ -51,7 +51,7 @@ export default function Services() {
         {services.map((s) => (
           <a
             key={s.title}
-            href="#contact"
+            href="#"
             className="group angle relative block aspect-[3/4] overflow-hidden"
           >
             <Image

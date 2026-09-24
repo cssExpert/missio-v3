@@ -154,7 +154,7 @@ export default function Moments() {
                 </p>
 
                 <a
-                  href="#contact"
+                  href="#"
                   className="group/link relative mt-auto inline-flex items-center gap-3 pt-6 text-sm font-bold text-ink transition-colors hover:text-primary"
                 >
                   This is us

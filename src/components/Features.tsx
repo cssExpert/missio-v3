@@ -17,7 +17,7 @@ export default function Features() {
               another renewal cycle is measured in staff hours.
             </p>
           </div>
-          <TextLink href="#contact">Let&apos;s Talk</TextLink>
+          <TextLink href="#">Let&apos;s Talk</TextLink>
         </div>
         {/* "Six moments" cards from missio.io */}
         <Moments />

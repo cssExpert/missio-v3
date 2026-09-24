@@ -157,7 +157,7 @@ export default function MobileMenu() {
 
             <div className="shrink-0 border-t border-paper/10 p-6">
               <a
-                href="#contact"
+                href="#"
                 onClick={close}
                 className="group flex items-center justify-between rounded-full bg-accent py-2 pl-6 pr-2 text-sm font-medium text-white transition-colors duration-300 hover:bg-highlight hover:text-ink"
               >
