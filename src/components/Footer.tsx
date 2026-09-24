@@ -4,15 +4,15 @@ import Newsletter from "./Newsletter";
 import ParallaxImage from "./ParallaxImage";
 import { Arrow, Logo, TextLink } from "./ui";
 
-// Footer menus from missio.io. Links scroll to this page's section where one exists, otherwise are "#" placeholders.
+// Footer menus from missio.io; every link is a "#" placeholder for now.
 const columns = [
   {
     title: "Engines",
     links: [
-      ["Growth Engine", "#engines"],
-      ["Relationship Engine", "#engines"],
-      ["Execution Engine", "#engines"],
-      ["Revenue Engine", "#engines"],
+      ["Growth Engine", "#"],
+      ["Relationship Engine", "#"],
+      ["Execution Engine", "#"],
+      ["Revenue Engine", "#"],
       ["MIRA AI", "#"],
       ["Compare Missio", "#"],
     ],
@@ -20,9 +20,9 @@ const columns = [
   {
     title: "Company",
     links: [
-      ["About", "#about"],
-      ["Pricing", "#pricing"],
-      ["Contact Us", "#contact"],
+      ["About", "#"],
+      ["Pricing", "#"],
+      ["Contact Us", "#"],
       ["Book a Consultation", "#"],
       ["Careers", "#"],
       ["Newsroom", "#"],
