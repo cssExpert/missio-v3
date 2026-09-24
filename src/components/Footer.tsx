@@ -99,7 +99,7 @@ export default function Footer() {
         {/* Full-width photo under a slate overlay so the heading and buttons stay readable;
             it drifts with scroll (parallax) — see ParallaxImage */}
         <ParallaxImage
-          src="/images/img-5.jpg"
+          src="/images/img-5.png"
           alt="Your renewal quote. We&rsquo;ll bring the math."
           className="object-center"
         />
