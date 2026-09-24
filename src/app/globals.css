@@ -1,26 +1,112 @@
 @import "tailwindcss";
 
+/* short: screens up to 820px tall (most laptops); used to tighten the hero so it fits above the fold */
+@custom-variant short (@media (max-height: 820px));
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --ink: #242f35;
+  --paper: #f3f7f8;
+  --mist: #e2eeee;
+  /* Brand colours: text-primary / bg-primary / border-primary, text-gold / bg-gold / border-gold */
+  --primary: #02647e;
+  --gold: #f2a73d;
+  /* Older names kept as aliases so existing classes keep working */
+  --accent: var(--primary);
+  --highlight: var(--gold);
+  /* Lighter tint of the primary for text on the dark slate, where #02647E lacks contrast */
+  --accent-soft: #4fb3cc;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: var(--ink);
+  --color-paper: var(--paper);
+  --color-mist: var(--mist);
+  --color-primary: var(--primary);
+  --color-gold: var(--gold);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-highlight: var(--highlight);
+  --font-sans: var(--font-jakarta);
+  --font-hand: var(--font-caveat);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-jakarta), sans-serif;
 }
+
+a,
+button {
+  cursor: pointer;
+}
+
+/* Cut top-right corner used on cards and panels */
+.angle {
+  clip-path: polygon(0 0, calc(100% - 56px) 0, 100% 56px, 100% 100%, 0 100%);
+}
+
+/* Hero slider pagination: short bars instead of Swiper's default dots */
+.hero-pagination .swiper-pagination-bullet {
+  display: block;
+  cursor: pointer;
+  width: 16px;
+  height: 6px;
+  margin: 0 !important;
+  border-radius: 9999px;
+  background: var(--paper);
+  opacity: 0.3;
+  transition:
+    width 0.3s,
+    opacity 0.3s;
+}
+
+.hero-pagination .swiper-pagination-bullet-active {
+  width: 24px;
+  opacity: 1;
+  background: var(--gold);
+}
+
+.eyebrow {
+  font-weight: 600;
+  display: inline-block;
+  border-radius: 9999px;
+  background: color-mix(in srgb, var(--ink) 35%, transparent);
+  color: var(--paper);
+  font-size: 0.75rem;
+  padding: 2px 10px 3px;
+}
+.eyebrow.gold {
+  background: rgb(from var(--gold, #f2a73d) r g b / 0.25);
+}
+
+.hero-overlay {
+  background: linear-gradient(
+    180deg,
+    rgba(36, 47, 53, 0.9) 7.28%,
+    rgba(36, 47, 53, 0.75) 47.6%,
+    rgb(36, 47, 53, 0.25)
+  );
+  /* background: linear-gradient(
+    272.2deg,
+    rgba(36, 47, 53, 0.15) 10.82%,
+    rgba(36, 47, 53, 0.95) 65.88%,
+    rgb(36, 47, 53, 0.1)
+  ); */
+}
+
+.mi-icon {
+  filter: invert(95%);
+}
+
+/* Obstacles: gold progress bar on the active objection tab (drives auto-advance) */
+@keyframes obstacle-progress {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+
