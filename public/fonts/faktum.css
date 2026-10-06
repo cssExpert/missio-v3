@@ -1,0 +1,35 @@
+@font-face {
+	font-display: swap;
+	font-family: faktum;
+	src: url("./faktum.woff") format("opentype")
+}
+@font-face {
+	font-display: swap;
+	font-family: faktum;
+	src: url("./faktum-regular.otf") format("opentype")
+}
+@font-face {
+	font-display: swap;
+	font-family: faktum;
+	font-style: italic;
+	src: url("./faktum-regular-italic.otf") format("opentype")
+}
+@font-face {
+	font-display: swap;
+	font-family: faktum;
+	font-weight: 500;
+	src: url("./faktum-medium.woff") format("opentype")
+}
+@font-face {
+	font-display: swap;
+	font-family: faktum;
+	font-weight: 600;
+	src: url("./faktum-semibold.otf") format("opentype")
+}
+@font-face {
+	font-display: swap;
+	font-family: faktum;
+	font-style: italic;
+	font-weight: 500;
+	src: url("./faktum-medium-italic.woff") format("opentype")
+}

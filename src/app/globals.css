@@ -26,7 +26,9 @@
   --color-accent: var(--accent);
   --color-accent-soft: var(--accent-soft);
   --color-highlight: var(--highlight);
-  --font-sans: var(--font-jakarta);
+  --font-sans: var(--font-inter);
+  --font-faktum: var(--font-faktum-local);
+  --font-heading: var(--font-faktum);
   --font-hand: var(--font-caveat);
 }
 
@@ -37,7 +39,16 @@ html {
 body {
   background: var(--paper);
   color: var(--ink);
-  font-family: var(--font-jakarta), sans-serif;
+  font-family: var(--font-inter), sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading), sans-serif;
 }
 
 a,
@@ -45,9 +56,16 @@ button {
   cursor: pointer;
 }
 
-/* Cut top-right corner used on cards and panels */
-.angle {
-  clip-path: polygon(0 0, calc(100% - 56px) 0, 100% 56px, 100% 100%, 0 100%);
+/* Box shape used site-wide: flat, square corners, top-right corner cut on the diagonal.
+   .angle for cards and panels, .angle-sm for small tiles, tabs and inner callouts.
+   clip-path also clips rings and shadows, so boxes using it stay flat. */
+.angle,
+.angle-sm {
+  --cut: 56px;
+  clip-path: polygon(0 0, calc(100% - var(--cut)) 0, 100% var(--cut), 100% 100%, 0 100%);
+}
+.angle-sm {
+  --cut: 28px;
 }
 
 /* Hero slider pagination: short bars instead of Swiper's default dots */

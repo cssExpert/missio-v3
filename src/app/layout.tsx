@@ -1,11 +1,24 @@
 import type { Metadata } from "next";
-import { Caveat, Plus_Jakarta_Sans } from "next/font/google";
+import { Caveat, Inter } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 
-const jakarta = Plus_Jakarta_Sans({
-  variable: "--font-jakarta",
+// Body font
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
-  weight: ["400", "500", "700", "800"],
+});
+
+// Heading font (licensed files in public/fonts)
+const faktum = localFont({
+  variable: "--font-faktum-local",
+  src: [
+    { path: "../../public/fonts/faktum.woff", weight: "400", style: "normal" },
+    { path: "../../public/fonts/faktum-regular-italic.otf", weight: "400", style: "italic" },
+    { path: "../../public/fonts/faktum-medium.woff", weight: "500", style: "normal" },
+    { path: "../../public/fonts/faktum-medium-italic.woff", weight: "500", style: "italic" },
+    { path: "../../public/fonts/faktum-semibold.otf", weight: "600", style: "normal" },
+  ],
 });
 
 // Handwritten accent font, used for the founder note in About
@@ -39,7 +52,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en" className={`${jakarta.variable} ${caveat.variable} antialiased`}>
+    <html lang="en" className={`${inter.variable} ${faktum.variable} ${caveat.variable} antialiased`}>
       <body className="min-h-full">{children}</body>
     </html>
   );
