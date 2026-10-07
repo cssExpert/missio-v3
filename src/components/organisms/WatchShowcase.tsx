@@ -10,9 +10,9 @@ import { PillButton } from "@/components/atoms/ui";
 // loads once someone presses play; the poster is a local copy.
 // TODO: missio.io lists the other three clips but has no video files for them yet, so they play the
 // overview until their own `src` is added here.
-const OVERVIEW_SRC = "https://adminv2.missio.io/storage/page-images/magic-editor/1790253048.Missio-Nonprofit-Outreach.mp4";
-type Clip = { label: string; duration: string; title: string; body: string; icon: LucideIcon; hex: string; src?: string; poster?: string };
-const clips: Clip[] = [
+export const OVERVIEW_SRC = "https://adminv2.missio.io/storage/page-images/magic-editor/1790253048.Missio-Nonprofit-Outreach.mp4";
+export type Clip = { label: string; duration: string; title: string; body: string; icon: LucideIcon; hex: string; src?: string; poster?: string };
+export const clips: Clip[] = [
   {
     label: "Missio platform overview",
     duration: "1:36",

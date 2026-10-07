@@ -135,7 +135,7 @@ export default function Testimonials() {
   return (
     <section
       id="testimonials"
-      className="relative overflow-hidden bg-mist py-24 lg:py-32"
+      className="relative overflow-hidden bg-mist py-18 lg:py-24"
     >
       <div className="mx-auto max-w-[1340px] px-4 sm:px-8">
         <motion.div

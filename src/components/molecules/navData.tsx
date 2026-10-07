@@ -12,25 +12,30 @@ export const sectionFor: Record<string, string> = {
 
 // Links with their own page in this site; highlighted while that page is open
 export const pages: Record<string, string> = {
-  Products: "/engines",
+  Products: "/engines-2",
   "Why Missio": "/why-missio",
   About: "/about",
+  Pricing: "/pricing",
+  Resources: "/blog-2",
 };
 
-// Mega menu targets: each engine's section on the engines page, MIRA, and the comparison page
-export const engineHref = (name: string) => `/engines#${name.toLowerCase().replace(/\s+/g, "-")}`;
-export const MIRA_HREF = "/engines#mira";
+// Mega menu targets: each engine's section on the engines page (version 2, /engines-2), MIRA, and the comparison page
+export const engineHref = (name: string) => `/engines-2#${name.toLowerCase().replace(/\s+/g, "-")}`;
+export const MIRA_HREF = "/engines-2#mira";
 export const COMPARE_HREF = "/why-missio";
 
 export const MISSIO = "https://www.missio.io";
 
 // Links that go to another page instead of a section here
-const external: Record<string, string> = {
-  Resources: `${MISSIO}/blog`,
+const external: Record<string, string> = {};
+
+// Links to a page here that keep section-based highlighting (Home's link stays lit only while its hero is on screen)
+const routes: Record<string, string> = {
+  Home: "/",
 };
 
 // Where a header link points: a page here, another site, or a "#" placeholder (demo)
-export const hrefFor = (label: string) => pages[label] ?? external[label] ?? "#";
+export const hrefFor = (label: string) => pages[label] ?? routes[label] ?? external[label] ?? "#";
 
 // Product line from missio.io: four engines, the MIRA AI layer, and the comparison page
 export const engines = [

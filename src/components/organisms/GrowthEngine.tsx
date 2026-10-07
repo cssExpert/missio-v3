@@ -159,7 +159,7 @@ export default function GrowthEngine() {
     // Inset dark card with rounded corners, like the hero banner
     <section
       id="engines"
-      className="relative isolate m-3 overflow-hidden rounded-3xl bg-ink py-24 lg:py-32"
+      className="relative isolate m-3 overflow-hidden rounded-3xl bg-ink py-18 lg:py-24"
     >
       {/* Soft colour washes behind the content */}
       <div

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Header from "@/components/organisms/Header";
 import DemoHero from "@/components/organisms/DemoHero";
 import Procurement from "@/components/organisms/Procurement";
-import SimplerPath from "@/components/organisms/SimplerPath";
+import SimplerPathBento from "@/components/organisms/SimplerPathBento";
 import Footer from "@/components/organisms/Footer";
 import ScrollDock from "@/components/molecules/ScrollDock";
 
@@ -20,7 +20,7 @@ export default function DemoPage() {
       <main>
         <DemoHero />
         <Procurement />
-        <SimplerPath />
+        <SimplerPathBento />
       </main>
       {/* The hero already makes the "renewal quote" pitch, so the footer skips its strip */}
       <Footer cta={false} />

@@ -5,7 +5,7 @@ import AboutManifesto from "@/components/organisms/AboutManifesto";
 import OneRecord from "@/components/organisms/OneRecord";
 import TrustedBy from "@/components/molecules/TrustedBy";
 import Testimonials from "@/components/organisms/Testimonials";
-import OrgShowcase from "@/components/organisms/OrgShowcase";
+import OrgBento from "@/components/organisms/OrgBento";
 import CtaBanner from "@/components/organisms/CtaBanner";
 import Footer from "@/components/organisms/Footer";
 import ScrollDock from "@/components/molecules/ScrollDock";
@@ -33,7 +33,7 @@ export default function AboutPage() {
         <section className="pb-24">
           <TrustedBy />
         </section>
-        <OrgShowcase />
+        <OrgBento />
         <CtaBanner />
         <Testimonials />
       </main>

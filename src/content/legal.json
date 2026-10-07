@@ -1,0 +1,2270 @@
+{
+ "privacy": {
+  "slug": "privacy",
+  "title": "Privacy Policy",
+  "description": "How Missio collects, uses and protects your information.",
+  "updated": null,
+  "intro": [],
+  "sections": [
+   {
+    "id": "introduction",
+    "title": "Introduction",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "At "
+       },
+       {
+        "text": "Missio",
+        "bold": true
+       },
+       {
+        "text": ", we are committed to protecting the privacy of all users — nonprofits, businesses, and individuals — who trust us to power their growth and impact."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "This Privacy Policy explains how we collect, use, share, and protect your personal information when you use the "
+       },
+       {
+        "text": "Missio platform",
+        "bold": true
+       },
+       {
+        "text": ", including modules like "
+       },
+       {
+        "text": "Talent IQ",
+        "bold": true
+       },
+       {
+        "text": ", CRM, fundraising tools, and our website builder. Our goal is to be fully transparent while providing you control over your data."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "By using our platform, you agree to the practices described in this policy."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "information-we-collect",
+    "title": "Information We Collect",
+    "blocks": [
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "A. Information You Provide"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We collect personal and organisational information you provide when you:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Sign up for a Missio account"
+        }
+       ],
+       [
+        {
+         "text": "Use our Talent IQ, CRM, or campaign tools"
+        }
+       ],
+       [
+        {
+         "text": "Fill out forms, assessments, or contact support"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "This includes:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Name, email, phone number"
+        }
+       ],
+       [
+        {
+         "text": "Organization name, EIN (for nonprofits)"
+        }
+       ],
+       [
+        {
+         "text": "Job title, resume, profile details (for Talent IQ)"
+        }
+       ],
+       [
+        {
+         "text": "Payment and billing information (if applicable)"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "B. Automatically Collected Data"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "When you access Missio, we automatically collect:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Device and browser information"
+        }
+       ],
+       [
+        {
+         "text": "IP address and location (approximate)"
+        }
+       ],
+       [
+        {
+         "text": "Pages visited, time spent, and interactions"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "C. Talent IQ-Specific Data"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you use "
+       },
+       {
+        "text": "Talent IQ",
+        "bold": true
+       },
+       {
+        "text": ", we may collect:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Candidate/volunteer profiles and assessments"
+        }
+       ],
+       [
+        {
+         "text": "Resume content and AI match results"
+        }
+       ],
+       [
+        {
+         "text": "Interview responses and skill tags"
+        }
+       ],
+       [
+        {
+         "text": "Organizational hiring preferences"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We only store this data in your secure workspace and do not share it without your consent."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "how-we-use-your-information",
+    "title": "How We Use Your Information",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We use your data to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Provide and personalise the Missio platform"
+        }
+       ],
+       [
+        {
+         "text": "Enable AI-based matching and insights in Talent IQ"
+        }
+       ],
+       [
+        {
+         "text": "Improve platform features and analytics"
+        }
+       ],
+       [
+        {
+         "text": "Respond to inquiries and support requests"
+        }
+       ],
+       [
+        {
+         "text": "Comply with legal and regulatory requirements"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We "
+       },
+       {
+        "text": "do not sell or rent your personal information",
+        "bold": true
+       },
+       {
+        "text": " to any third party."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sharing-your-information",
+    "title": "Sharing Your Information",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We only share your data in the following cases:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "With your team members or users in your organisation"
+        }
+       ],
+       [
+        {
+         "text": "With trusted third-party vendors (e.g., cloud storage, analytics)"
+        }
+       ],
+       [
+        {
+         "text": "When required by law, regulation, or legal process"
+        }
+       ],
+       [
+        {
+         "text": "If you opt to publish content or profiles publicly (e.g., job listings)"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "All third-party partners are bound by confidentiality and data protection agreements."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "data-security",
+    "title": "Data Security",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We take data protection seriously and implement best practices, including:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Encrypted data storage (at rest and in transit)"
+        }
+       ],
+       [
+        {
+         "text": "Role-based access control and multi-factor authentication"
+        }
+       ],
+       [
+        {
+         "text": "Routine security audits and vulnerability testing"
+        }
+       ],
+       [
+        {
+         "text": "GDPR, CCPA, and FERPA-aligned practices"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Access to "
+       },
+       {
+        "text": "Talent IQ",
+        "bold": true
+       },
+       {
+        "text": " data is restricted to authorised users only."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "your-rights-and-choices",
+    "title": "Your Rights and Choices",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You can manage your data through your Missio account or by contacting us."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Your rights include:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Accessing or updating your information"
+        }
+       ],
+       [
+        {
+         "text": "Requesting data deletion or portability"
+        }
+       ],
+       [
+        {
+         "text": "Withdrawing consent for certain types of processing"
+        }
+       ],
+       [
+        {
+         "text": "Managing email and communication preferences"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "To exercise your rights, email: "
+       },
+       {
+        "text": "privacy@missio.io",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "cookies-and-tracking-technologies",
+    "title": "Cookies and Tracking Technologies",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We use cookies and similar technologies to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Recognise repeat visitors"
+        }
+       ],
+       [
+        {
+         "text": "Store user preferences"
+        }
+       ],
+       [
+        {
+         "text": "Analyse performance and usage"
+        }
+       ],
+       [
+        {
+         "text": "Improve UX across modules like Talent IQ"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You may disable cookies in your browser, though some features may not function properly."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "children-s-privacy",
+    "title": "Children's Privacy",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Missio is not designed for children under 13. We do not knowingly collect information from minors. If you believe a child has submitted data, please contact us immediately and we will remove it."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "international-data-transfers",
+    "title": "International Data Transfers",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Your data may be stored or processed in data centers outside your home country. We ensure all transfers comply with applicable privacy laws such as GDPR."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "retention-and-deletion",
+    "title": "Retention and Deletion",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We retain data only for as long as needed to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Provide services to you"
+        }
+       ],
+       [
+        {
+         "text": "Comply with legal obligations"
+        }
+       ],
+       [
+        {
+         "text": "Resolve disputes and enforce agreements"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You can request deletion of your account and associated data at any time."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "changes-to-this-policy",
+    "title": "Changes to This Policy",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We may update this Privacy Policy periodically. Major updates will be communicated via email or in-app notifications. The most current version is always available at "
+       },
+       {
+        "text": "www.missio.io/privacy-policy",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "contact-us",
+    "title": "Contact Us",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you have any questions, concerns, or requests related to your privacy:"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "📧 "
+       },
+       {
+        "text": "Email:",
+        "bold": true
+       },
+       {
+        "text": " privacy@missio.io  🌐 "
+       },
+       {
+        "text": "Website:",
+        "bold": true
+       },
+       {
+        "text": " www.missio.io",
+        "href": "https://www.missio.io/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "eyebrow": "Legal"
+ },
+ "terms": {
+  "slug": "terms",
+  "title": "Terms of Service",
+  "description": "The terms that govern your use of Missio.",
+  "updated": "Effective Date: July 29, 2025. Website: www.missio.io",
+  "intro": [],
+  "sections": [
+   {
+    "id": "introduction",
+    "title": "Introduction",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Welcome to Missio! These Terms and Conditions (“Terms”) govern your use of our website, products, and services. By accessing or using Missio, you agree to comply with these Terms."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you are using Missio on behalf of an organisation (nonprofit or business), you confirm that you are authorised to accept these Terms on its behalf. If you do not agree, please do not use our services."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "overview-of-services",
+    "title": "Overview of Services",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Missio is a digital platform that enables nonprofits and businesses to manage:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Fundraising"
+        }
+       ],
+       [
+        {
+         "text": "Donor and CRM data"
+        }
+       ],
+       [
+        {
+         "text": "Email campaigns"
+        }
+       ],
+       [
+        {
+         "text": "Websites and forms"
+        }
+       ],
+       [
+        {
+         "text": "Engagement analytics"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Our services may include both free trials and paid subscriptions, with features that vary depending on the selected plan."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "account-registration",
+    "title": "Account Registration",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You must create an account to use most features of Missio. When doing so, you agree to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Provide accurate, complete information"
+        }
+       ],
+       [
+        {
+         "text": "Maintain the security of your credentials"
+        }
+       ],
+       [
+        {
+         "text": "Notify us of any unauthorised use or suspected breach"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We reserve the right to suspend or close your account for violations or misuse."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "acceptable-use",
+    "title": "Acceptable Use",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You agree not to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Violate any laws or third-party rights"
+        }
+       ],
+       [
+        {
+         "text": "Use the platform for fraudulent, harmful, or unlawful activity"
+        }
+       ],
+       [
+        {
+         "text": "Interfere with system security or operations"
+        }
+       ],
+       [
+        {
+         "text": "Upload malicious software or spam content"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Misuse of the platform may result in account suspension or termination."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "subscriptions-and-payments",
+    "title": "Subscriptions and Payments",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Certain features require a paid subscription. By subscribing, you agree to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Pay the applicable fees for your plan"
+        }
+       ],
+       [
+        {
+         "text": "Maintain valid payment information"
+        }
+       ],
+       [
+        {
+         "text": "Accept recurring billing unless cancelled"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "All payments are securely processed via third-party providers. Missio does not store payment details."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "free-trials-and-cancellations",
+    "title": "Free Trials and Cancellations",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Free trials may be offered for a limited period. After the trial, your account may be downgraded or transitioned to a paid plan, depending on your actions."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You can cancel your subscription through your account dashboard at any time. Cancellations do not result in prorated refunds."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "intellectual-property",
+    "title": "Intellectual Property",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "All content, trademarks, and code related to Missio are the property of Missio or its licensors. You may not:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Copy or redistribute our platform or materials"
+        }
+       ],
+       [
+        {
+         "text": "Use our branding without permission"
+        }
+       ],
+       [
+        {
+         "text": "Resell or frame Missio services without authorisation"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You retain ownership of any content or data you upload to your account. We only use it to provide services to you."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "privacy-and-data-use",
+    "title": "Privacy and Data Use",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Our handling of your data is governed by our Privacy Policy. By using Missio, you agree to that policy and how your information is used and protected."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "third-party-services",
+    "title": "Third-Party Services",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Missio may offer integrations with third-party services (e.g., Google, Stripe, CRM tools). Use of those tools is subject to their respective terms and privacy policies."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We are not responsible for their performance or availability."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "service-modifications",
+    "title": "Service Modifications",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We may update, modify, or discontinue parts of the platform at our discretion. Where feasible, we will notify you of major changes. We are not liable for any loss caused by such updates or interruptions."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "limitation-of-liability",
+    "title": "Limitation of Liability",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Missio is provided “as-is.” To the fullest extent permitted by applicable law, we are not liable for:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Indirect, incidental, or consequential damages"
+        }
+       ],
+       [
+        {
+         "text": "Loss of data, revenue, or reputation"
+        }
+       ],
+       [
+        {
+         "text": "Platform downtime or delays"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Our total liability is limited to the amount you paid in the past 6 months before the claim."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "termination",
+    "title": "Termination",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You may close your account at any time. We may suspend or terminate your access if:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "You violate these Terms"
+        }
+       ],
+       [
+        {
+         "text": "Payment fails"
+        }
+       ],
+       [
+        {
+         "text": "You misuse the platform"
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Termination does not remove your responsibility for past payments or obligations."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "governing-law-and-disputes",
+    "title": "Governing Law and Disputes",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "These Terms are governed by applicable laws in your country or region of residence. Any dispute will be resolved through negotiation or, if necessary, via appropriate legal channels in a neutral jurisdiction."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "changes-to-these-terms",
+    "title": "Changes to These Terms",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We may update these Terms occasionally. We will notify you of significant updates via email or in-app notices. Continued use of the service implies agreement to the new version."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "contact-us",
+    "title": "Contact Us",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "For any questions regarding these Terms, you can reach us at: 📧 Email: "
+       },
+       {
+        "text": "support@missio.io",
+        "href": "http://support@missio.io"
+       },
+       {
+        "text": " 🌐 Website: "
+       },
+       {
+        "text": "www.missio.io",
+        "href": "https://www.missio.io/"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "eyebrow": "Terms and Conditions"
+ },
+ "security": {
+  "slug": "security",
+  "title": "Security",
+  "description": "How Missio approaches the security of your data.",
+  "updated": null,
+  "intro": [
+   {
+    "type": "p",
+    "spans": [
+     {
+      "text": "Protecting the donor, volunteer and staff data our customers trust us with is a core part of how we build Missio."
+     }
+    ]
+   }
+  ],
+  "sections": [
+   {
+    "id": "encryption",
+    "title": "Encryption",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Data is encrypted in transit using industry-standard protocols. Access to production systems is restricted to authorized personnel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "access-controls",
+    "title": "Access controls",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Missio supports role-based permissions, so your organization controls exactly what each staff member can see and do within the platform."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "monitoring-incident-response",
+    "title": "Monitoring & incident response",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We monitor our systems for unusual activity and maintain a process for responding to and communicating about security incidents."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "report-a-concern",
+    "title": "Report a concern",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you believe you've found a security issue, please "
+       },
+       {
+        "text": "contact us",
+        "href": "/demo"
+       },
+       {
+        "text": " — we take every report seriously."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "eyebrow": "Legal"
+ },
+ "accessibility": {
+  "slug": "accessibility",
+  "title": "Accessibility",
+  "description": "Our commitment to making Missio usable by everyone.",
+  "updated": null,
+  "intro": [
+   {
+    "type": "p",
+    "spans": [
+     {
+      "text": "We want Missio, and the pages our customers build with it, to be usable by as many people as possible, including people with disabilities."
+     }
+    ]
+   }
+  ],
+  "sections": [
+   {
+    "id": "our-approach",
+    "title": "Our approach",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We aim to follow established accessibility guidelines (such as WCAG 2.1) in the design of our own product and marketing pages, and we're continuing to improve as we go."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "ongoing-work",
+    "title": "Ongoing work",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Accessibility isn't a one-time project — we review and improve it as part of how we build. If you encounter a barrier using Missio, we want to know about it."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "let-us-know",
+    "title": "Let us know",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you experience an accessibility issue on this site or within the Missio platform, please "
+       },
+       {
+        "text": "reach out",
+        "href": "/demo"
+       },
+       {
+        "text": " and describe what you encountered. We'll follow up."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "eyebrow": "Legal"
+ },
+ "cookie-preferences": {
+  "slug": "cookie-preferences",
+  "title": "Cookie Preferences",
+  "description": "How Missio uses cookies, and how to manage them.",
+  "updated": "Last Updated: September 9, 2026",
+  "intro": [
+   {
+    "type": "p",
+    "spans": [
+     {
+      "text": "Missio, Inc. (“Missio,” “we,” “us,” or “our”) uses cookies and similar technologies on our websites, applications, and online services (collectively, the “Services”) to provide, maintain, secure, and improve our Services and to understand how visitors use our website."
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "spans": [
+     {
+      "text": "This Cookie Policy explains what cookies are, how Missio uses them, the types of cookies we may use, and how you can manage your cookie preferences."
+     }
+    ]
+   },
+   {
+    "type": "p",
+    "spans": [
+     {
+      "text": "By continuing to use our website, you may be consenting to the use of cookies as described in this policy, depending on your location and applicable law. Where required by law, we will request your consent before placing non-essential cookies on your device."
+     }
+    ]
+   }
+  ],
+  "sections": [
+   {
+    "id": "what-are-cookies",
+    "title": "What Are Cookies?",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Cookies are small text files that are placed on your computer, smartphone, tablet, or other device when you visit a website. Cookies allow a website to recognize your device and remember certain information about your visit."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We may also use similar technologies, including pixels, tags, web beacons, local storage, and similar technologies, for purposes comparable to cookies."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Cookies may be:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Session cookies, which are deleted when you close your browser; or"
+        }
+       ],
+       [
+        {
+         "text": "Persistent cookies, which remain on your device for a specified period or until you delete them."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "id": "how-missio-uses-cookies",
+    "title": "How Missio Uses Cookies",
+    "blocks": [
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Missio may use cookies and similar technologies to:"
+        }
+       ],
+       [
+        {
+         "text": "Make our website and Services function properly;"
+        }
+       ],
+       [
+        {
+         "text": "Maintain your session and remember your preferences;"
+        }
+       ],
+       [
+        {
+         "text": "Authenticate users and protect accounts;"
+        }
+       ],
+       [
+        {
+         "text": "Maintain the security and integrity of our Services;"
+        }
+       ],
+       [
+        {
+         "text": "Understand how visitors interact with our website;"
+        }
+       ],
+       [
+        {
+         "text": "Measure website performance and improve our Services;"
+        }
+       ],
+       [
+        {
+         "text": "Remember preferences and settings;"
+        }
+       ],
+       [
+        {
+         "text": "Support communications and marketing activities;"
+        }
+       ],
+       [
+        {
+         "text": "Analyze the effectiveness of our website and marketing efforts; and"
+        }
+       ],
+       [
+        {
+         "text": "Detect, prevent, and investigate fraudulent or unauthorized activity."
+        }
+       ]
+      ]
+     }
+    ]
+   },
+   {
+    "id": "types-of-cookies-we-use",
+    "title": "Types of Cookies We Use",
+    "blocks": [
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "A. Strictly Necessary Cookies"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "These cookies are required for the website or Services to function properly."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "They may be used to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Maintain secure sessions;"
+        }
+       ],
+       [
+        {
+         "text": "Authenticate users;"
+        }
+       ],
+       [
+        {
+         "text": "Remember essential settings;"
+        }
+       ],
+       [
+        {
+         "text": "Enable requested functionality;"
+        }
+       ],
+       [
+        {
+         "text": "Protect against security threats;"
+        }
+       ],
+       [
+        {
+         "text": "Maintain website stability; and"
+        }
+       ],
+       [
+        {
+         "text": "Process transactions or other requested services."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Because these cookies are necessary for the operation of the Services, they generally cannot be disabled through our cookie preference tools."
+       }
+      ]
+     },
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "B. Functional Cookies"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Functional cookies allow the website to remember choices you make and provide enhanced and more personalized functionality."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "For example, these cookies may remember:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Language or region preferences;"
+        }
+       ],
+       [
+        {
+         "text": "User interface preferences;"
+        }
+       ],
+       [
+        {
+         "text": "Previously selected settings; or"
+        }
+       ],
+       [
+        {
+         "text": "Other preferences necessary to provide requested functionality."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you disable these cookies, some features of the website may not function as intended."
+       }
+      ]
+     },
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "C. Analytics and Performance Cookies"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Analytics and performance cookies help us understand how visitors use our website."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "These cookies may collect information such as:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Pages visited;"
+        }
+       ],
+       [
+        {
+         "text": "Links or buttons clicked;"
+        }
+       ],
+       [
+        {
+         "text": "Time spent on pages;"
+        }
+       ],
+       [
+        {
+         "text": "General navigation patterns;"
+        }
+       ],
+       [
+        {
+         "text": "Referring websites;"
+        }
+       ],
+       [
+        {
+         "text": "Browser or device information; and"
+        }
+       ],
+       [
+        {
+         "text": "General usage and performance information."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We use this information to understand website performance, identify areas for improvement, and improve the overall user experience."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Where required by applicable law, we will obtain your consent before placing analytics cookies on your device."
+       }
+      ]
+     },
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "D. Advertising and Marketing Cookies"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Advertising and marketing cookies may be used to understand your interests, measure the effectiveness of advertising campaigns, and provide more relevant communications or advertisements."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "These technologies may allow us or our service providers and advertising partners to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Measure advertising performance;"
+        }
+       ],
+       [
+        {
+         "text": "Understand interactions with marketing content;"
+        }
+       ],
+       [
+        {
+         "text": "Measure conversions;"
+        }
+       ],
+       [
+        {
+         "text": "Build or infer audience information; and"
+        }
+       ],
+       [
+        {
+         "text": "Deliver or limit relevant advertising."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Marketing cookies will be used only where permitted by applicable law and, where required, after obtaining your consent."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "third-party-cookies",
+    "title": "Third-Party Cookies",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Some cookies may be placed by third-party service providers that perform services on our behalf or provide functionality used on our website."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "These third parties may include providers supporting functions such as:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Website analytics;"
+        }
+       ],
+       [
+        {
+         "text": "Security;"
+        }
+       ],
+       [
+        {
+         "text": "Customer support;"
+        }
+       ],
+       [
+        {
+         "text": "Marketing;"
+        }
+       ],
+       [
+        {
+         "text": "Advertising;"
+        }
+       ],
+       [
+        {
+         "text": "Embedded content;"
+        }
+       ],
+       [
+        {
+         "text": "Payment processing; and"
+        }
+       ],
+       [
+        {
+         "text": "Website functionality."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Third-party providers may use cookies or similar technologies in accordance with their own privacy policies."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We do not control the cookies placed by third parties, and their use may be subject to their respective policies and terms."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "your-cookie-choices",
+    "title": "Your Cookie Choices",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Where applicable, you can manage your cookie preferences through the Cookie Preferences controls available on our website."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Depending on your location, you may be able to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Accept all cookies;"
+        }
+       ],
+       [
+        {
+         "text": "Reject or decline non-essential cookies;"
+        }
+       ],
+       [
+        {
+         "text": "Enable or disable analytics cookies;"
+        }
+       ],
+       [
+        {
+         "text": "Enable or disable functional cookies; and"
+        }
+       ],
+       [
+        {
+         "text": "Enable or disable advertising or marketing cookies."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Your choices regarding non-essential cookies will not affect your ability to use features that are necessary to provide the Services, although certain functionality may not work properly if optional cookies are disabled."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "how-to-change-your-preferences",
+    "title": "How to Change Your Preferences",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You can change your cookie preferences at any time by accessing the Cookie Preferences option available on our website."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "You may also control or delete cookies through your web browser."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Most browsers allow you to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "View cookies stored on your device;"
+        }
+       ],
+       [
+        {
+         "text": "Delete existing cookies;"
+        }
+       ],
+       [
+        {
+         "text": "Block cookies;"
+        }
+       ],
+       [
+        {
+         "text": "Block third-party cookies; or"
+        }
+       ],
+       [
+        {
+         "text": "Receive a notification before a cookie is stored."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Please note that disabling or deleting cookies may affect the functionality and availability of certain website features."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "do-not-track-signals",
+    "title": "Do Not Track Signals",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Some browsers offer a “Do Not Track” (“DNT”) setting. Because there is currently no universally accepted standard for responding to DNT signals, our website may not respond to all DNT signals."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Where required by applicable law, we will honor applicable privacy choices and rights in accordance with our Privacy Policy and applicable regulations."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "cookies-used-in-the-missio-platform",
+    "title": "Cookies Used in the Missio Platform",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Missio provides software and online tools that may be used by organizations for fundraising, donor management, events, e-commerce, financial processes, communications, and other organizational activities."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Cookies and similar technologies used within authenticated areas of the Services may be necessary to:"
+       }
+      ]
+     },
+     {
+      "type": "list",
+      "ordered": false,
+      "items": [
+       [
+        {
+         "text": "Authenticate users;"
+        }
+       ],
+       [
+        {
+         "text": "Maintain logged-in sessions;"
+        }
+       ],
+       [
+        {
+         "text": "Protect accounts;"
+        }
+       ],
+       [
+        {
+         "text": "Remember user settings;"
+        }
+       ],
+       [
+        {
+         "text": "Maintain security;"
+        }
+       ],
+       [
+        {
+         "text": "Provide requested functionality; and"
+        }
+       ],
+       [
+        {
+         "text": "Monitor system performance and reliability."
+        }
+       ]
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "The use of cookies within a customer’s Missio account may also depend on how that customer has configured and uses the Services."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "cookies-and-customer-websites",
+    "title": "Cookies and Customer Websites",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Missio customers may use Missio technology to create or operate websites, donation pages, event pages, forms, or other online experiences."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "In those circumstances, the organization operating the applicable website or service may have its own privacy and cookie practices."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you interact with a website or page operated by a Missio customer, you should review that organization’s privacy notice and cookie policy for information about how it collects and uses information."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "data-collected-through-cookies",
+    "title": "Data Collected Through Cookies",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Information collected through cookies may include information about your device, browser, IP address, approximate location, pages viewed, interactions with the website, and other technical or usage information."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Depending on the type of cookie and the circumstances in which it is used, this information may be associated with other information we maintain about you."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "For more information about how Missio collects, uses, stores, and protects personal information, please review our Privacy Policy."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "retention",
+    "title": "Retention",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "The length of time a cookie remains on your device depends on whether it is a session cookie or persistent cookie and on the purpose for which it is used."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We retain information collected through cookies only for as long as reasonably necessary for the purposes described in this policy, unless a longer retention period is required or permitted by applicable law."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "updates-to-this-cookie-policy",
+    "title": "Updates to This Cookie Policy",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We may update this Cookie Policy from time to time to reflect changes to our Services, technology, legal requirements, or our privacy practices."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "When we make changes, we will update the Last Updated date at the top of this policy."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We encourage you to review this Cookie Policy periodically to stay informed about how we use cookies and similar technologies."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "contact-us",
+    "title": "Contact Us",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If you have questions about this Cookie Policy or our use of cookies, please contact us:"
+       }
+      ]
+     },
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "Missio, Inc."
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "200 Rector Place, Suite 17H"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "New York, NY 10280"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "United States"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Email: "
+       },
+       {
+        "text": "missio@missio.io",
+        "href": "mailto:missio@missio.io"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Phone: "
+       },
+       {
+        "text": "(844) 568-0941",
+        "href": "tel:(844) 568-0941"
+       }
+      ]
+     },
+     {
+      "type": "h3",
+      "spans": [
+       {
+        "text": "Important Notice"
+       }
+      ]
+     },
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "Cookie categories and the specific cookies used by Missio may change as our website, Services, technology, and third-party providers change. Where appropriate, the Cookie Preference Center will provide the most current information about the technologies in use and the choices available to you."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "eyebrow": "Legal"
+ },
+ "data-processing": {
+  "slug": "data-processing",
+  "title": "Data Processing",
+  "description": "How Missio processes data on behalf of your organization.",
+  "updated": null,
+  "intro": [
+   {
+    "type": "p",
+    "spans": [
+     {
+      "text": "This page provides a general overview of our data processing practices. It is a starting template and should be reviewed by legal counsel before being relied upon as an official Data Processing Agreement."
+     }
+    ]
+   }
+  ],
+  "sections": [
+   {
+    "id": "our-role",
+    "title": "Our role",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "When your organization uses Missio to store donor, volunteer or staff records, we act as a data processor on your behalf — we process that data to provide the service, not for our own independent purposes."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sub-processors",
+    "title": "Sub-processors",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We rely on a small number of trusted infrastructure and service providers to operate Missio, such as hosting and payment processing. We select these providers carefully and expect them to meet the same standards we hold ourselves to."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "data-retention",
+    "title": "Data retention",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "We retain your organization's data for as long as your account is active, and for a reasonable period after account closure to allow for data export, unless a shorter period is required by law."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "id": "requesting-a-formal-agreement",
+    "title": "Requesting a formal agreement",
+    "blocks": [
+     {
+      "type": "p",
+      "spans": [
+       {
+        "text": "If your organization requires a signed Data Processing Agreement, "
+       },
+       {
+        "text": "contact us",
+        "href": "/demo"
+       },
+       {
+        "text": " and we'll provide one."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "eyebrow": "Legal"
+ }
+}

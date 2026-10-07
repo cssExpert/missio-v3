@@ -32,40 +32,40 @@ export default function Header() {
         <div className="relative mx-auto flex h-24 max-w-[1340px] items-center justify-between px-6 sm:px-8">
           <Logo light />
           {/* Main navigation; Products opens the animated mega menu */}
-        <NavMenu />
+          <NavMenu />
           <div className="flex items-center gap-3">
-          <a
-            href="#"
-            // Ghost button, same 46px height as Schedule A Demo
-            className="hidden h-[46px] items-center rounded-full border border-white px-6 text-sm font-medium text-white transition-colors duration-300 hover:border-gold hover:bg-gold hover:text-ink sm:inline-flex"
-          >
-            Log In
-          </a>
-          <a
-            href="#"
-            className={`group hidden h-[46px] items-center gap-4 rounded-full pl-6 pr-[5px] text-sm font-medium sm:inline-flex transition-colors duration-300 hover:bg-highlight hover:text-ink ${
-              scrolled ? "bg-accent text-white" : "bg-black/80 text-paper"
-            }`}
-          >
-            Schedule A Demo
-            <span
-              className={`grid h-9 w-9 place-items-center rounded-full text-white transition-colors duration-300 group-hover:bg-accent ${
-                scrolled ? "bg-ink" : "bg-accent"
+            <a
+              href="https://adminv2.missio.io/login"
+              // Ghost button, same 46px height as Schedule A Demo
+              className="hidden h-[46px] items-center rounded-full border border-white px-6 text-sm font-medium text-white transition-colors duration-300 hover:border-gold hover:bg-gold hover:text-ink sm:inline-flex"
+            >
+              Log In
+            </a>
+            <a
+              href="/demo"
+              className={`group hidden h-[46px] items-center gap-4 rounded-full pl-6 pr-[5px] text-sm font-medium sm:inline-flex transition-colors duration-300 hover:bg-highlight hover:text-ink ${
+                scrolled ? "bg-accent text-white" : "bg-black/80 text-paper"
               }`}
             >
-              <svg
-                viewBox="0 0 24 24"
-                className="h-4 w-4"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="1.8"
-                aria-hidden
+              Schedule A Demo
+              <span
+                className={`grid h-9 w-9 place-items-center rounded-full text-white transition-colors duration-300 group-hover:bg-accent ${
+                  scrolled ? "bg-ink" : "bg-accent"
+                }`}
               >
-                <rect x="3" y="5" width="18" height="14" rx="2" />
-                <path d="M3 7l9 6 9-6" />
-              </svg>
-            </span>
-          </a>
+                <svg
+                  viewBox="0 0 24 24"
+                  className="h-4 w-4"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.8"
+                  aria-hidden
+                >
+                  <rect x="3" y="5" width="18" height="14" rx="2" />
+                  <path d="M3 7l9 6 9-6" />
+                </svg>
+              </span>
+            </a>
             {/* Phones and small tablets: menu button that opens the drawer */}
             <MobileMenu />
           </div>

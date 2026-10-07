@@ -79,13 +79,14 @@ export default function NavMenu() {
               }}
             >
               {isProducts ? (
-                <button
-                  type="button"
+                // Hover or focus opens the mega menu; a click goes to the engines page itself
+                <a
+                  href={hrefFor(l)}
                   className={`${itemClass} ${isCurrent ? "text-white" : ""}`}
                   aria-current={isCurrent ? "location" : undefined}
+                  aria-haspopup="true"
                   aria-expanded={open}
                   aria-controls="products-menu"
-                  onClick={() => setOpen((o) => !o)}
                   onFocus={openMenu}
                 >
                   {active && <Pill />}
@@ -100,7 +101,7 @@ export default function NavMenu() {
                   >
                     <path d="M3 4.5l3 3 3-3" />
                   </svg>
-                </button>
+                </a>
               ) : (
                 <a href={hrefFor(l)} className={`${itemClass} ${isCurrent ? "text-white" : ""}`} aria-current={isCurrent ? "location" : undefined}>
                   {active && <Pill />}

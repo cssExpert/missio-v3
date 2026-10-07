@@ -2,6 +2,7 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import Newsletter from "@/components/molecules/Newsletter";
 import ParallaxImage from "@/components/atoms/ParallaxImage";
+import AutoplayVideo from "@/components/atoms/AutoplayVideo";
 import { Arrow, Logo, TextLink } from "@/components/atoms/ui";
 
 // Footer menus from missio.io; every link is a "#" placeholder for now.
@@ -42,13 +43,13 @@ const columns = [
   {
     title: "Legal",
     links: [
-      ["Privacy", "#"],
-      ["Terms", "#"],
-      ["Refund Policy", "#"],
-      ["Security", "#"],
-      ["Accessibility", "#"],
-      ["Cookie preferences", "#"],
-      ["Data processing", "#"],
+      ["Privacy", "/privacy"],
+      ["Terms", "/terms"],
+      ["Refund Policy", "/refund-and-cancellation-policy"],
+      ["Security", "/security"],
+      ["Accessibility", "/accessibility"],
+      ["Cookie preferences", "/cookie-preferences"],
+      ["Data processing", "/data-processing"],
     ],
   },
 ];
@@ -132,13 +133,7 @@ export default function Footer({ cta = true }: { cta?: boolean }) {
           {/* Left: brand card with a looping background video */}
           <div className="relative isolate flex min-h-[360px] flex-col overflow-hidden rounded-[28px] bg-ink p-8 shadow-[0_12px_40px_rgba(2,100,126,0.3)]">
             {hasVideo && (
-              <video
-                aria-hidden
-                autoPlay
-                muted
-                loop
-                playsInline
-                preload="auto"
+              <AutoplayVideo
                 src={FOOTER_VIDEO}
                 className="pointer-events-none absolute inset-0 z-0 h-full w-full object-cover motion-reduce:hidden"
               />

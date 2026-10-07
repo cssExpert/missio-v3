@@ -66,7 +66,7 @@ export default function SupporterJourney() {
 
   return (
     // overflow-clip, not overflow-hidden, so the pinned frame can stay sticky
-    <section id="journey" className="relative overflow-clip py-24 lg:py-32">
+    <section id="journey" className="relative overflow-clip py-18 lg:py-24">
       <div className="mx-auto max-w-[1340px] px-4 sm:px-8">
         <div className="grid gap-6 lg:grid-cols-2 lg:items-end">
           <div>
